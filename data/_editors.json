@@ -10,6 +10,11 @@
         "link": "https://www.youtube.com/@SchwertBootGMD"
     },
     {
+        "role": "admin",
+        "name": "TurtleER",
+        "link": "https://www.youtube.com/@TurtleER"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
