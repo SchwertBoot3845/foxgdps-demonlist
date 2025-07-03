@@ -3,10 +3,16 @@
     "name": "Eden",
     "author": "Cody6000",
     "creators": [],
-    "verifier": "SchwertBootGD",
-    "verification": "https://www.youtube.com/watch?v=brICmUUc28E",
+    "verifier": "Cody6000",
+    "verification": "https://www.youtube.com/watch?v=rjkl0nKQxGY",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "SchwertBootGD",
+            "link": "https://www.youtube.com/watch?v=brICmUUc28E",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
