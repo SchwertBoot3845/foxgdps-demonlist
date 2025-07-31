@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=vvuJDdNZBw4",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "MeFr",
+            "link": "https://www.youtube.com/watch?v=6sljyrndJQo",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
