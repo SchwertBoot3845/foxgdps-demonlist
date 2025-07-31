@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "TurtleER",
+            "link": "https://youtu.be/5yYtTLzE5Zo",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
