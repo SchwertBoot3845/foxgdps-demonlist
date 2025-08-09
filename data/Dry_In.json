@@ -8,5 +8,11 @@
     "percentToQualify": 50,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "MeFr",
+            "link": "https://www.youtube.com/watch?v=x4j9-02GuSU",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
