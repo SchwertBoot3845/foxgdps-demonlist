@@ -1,0 +1,18 @@
+{
+    "id": 1411,
+    "name": "DEADLY HEAVEN",
+    "author": "KunaiGod",
+    "creators": [],
+    "verifier": "KunaiGod",
+    "verification": "https://www.youtube.com/watch?v=ZNsnMC7367w",
+    "percentToQualify": 60,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TurtleER",
+            "link": "https://youtu.be/t60YTfmNAGg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
